@@ -1,6 +1,6 @@
 # Merge Sort — Divide and Conquer Demonstration
 
-This mini project showcases how the Divide and Conquer paradigm powers the merge sort algorithm. Run the demo in `main.py` to watch the list repeatedly split (divide), individually sorted (conquer), and merged back together (combine) before producing the final sorted result.
+This lightweight CLI demo animates how merge sort uses Divide and Conquer: the sample list is split, each half is solved, and the results are merged back together so you can see the full recursive story in real time.
 
 ## Divide and Conquer Paradigm
 - **Divide:** Break the original problem into smaller subproblems of the same type.
