@@ -2,6 +2,13 @@
 
 This lightweight CLI demo animates how merge sort uses Divide and Conquer: the sample list is split, each half is solved, and the results are merged back together so you can see the full recursive story in real time.
 
+## Video Demo
+<video src="MergeSortDivideConquer.mp4" controls width="640">
+	Your browser does not support embedded videos.
+</video>
+
+If the video does not play inline, download it directly from [MergeSortDivideConquer.mp4](MergeSortDivideConquer.mp4) in this repository.
+
 ## Divide and Conquer Paradigm
 - **Divide:** Break the original problem into smaller subproblems of the same type.
 - **Conquer:** Solve each subproblem independently. In merge sort, this means treating single-element lists as already sorted.
